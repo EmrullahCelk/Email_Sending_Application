@@ -1,8 +1,7 @@
 .env
 credentials.json
 token_file/*
-send_mail_with_smtplib.py
-mail_with_smtplib.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
