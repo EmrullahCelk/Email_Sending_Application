@@ -34,8 +34,8 @@ def send_email(subject, body):
         server.sendmail(from_email, to_email, msg.as_string())
 
 # Örnek kullanım
-subject = "test mail"
-body = "test mail"
+subject = "test"
+body = "test message"
 
 
 send_email(subject, body)
